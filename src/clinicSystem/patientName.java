@@ -2,7 +2,7 @@ package clinicSystem;
 
 import java.util.Objects;
 
-public class patientName {
+public class PatientName {
 
     Integer id;
     String firstName;
