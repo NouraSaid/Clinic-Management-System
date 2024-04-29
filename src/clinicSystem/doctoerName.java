@@ -3,7 +3,7 @@ package clinicSystem;
 import java.util.List;
 import java.util.Objects;
 
-public class doctoerName {
+public class DoctoerName {
     Integer id;
      String firstName;
      String lastName;
