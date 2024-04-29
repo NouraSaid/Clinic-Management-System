@@ -2,7 +2,7 @@ package clinicSystem;
 
 import java.util.Objects;
 
-public class personalInfo {
+public class PersonalInfo {
 
     Integer id;
     Integer age;
